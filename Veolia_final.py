@@ -34,8 +34,8 @@ list_pipes = []
 Flag_Valves = False
 list_valves = []
 
-#stackoverfow:python - Read file from and to specific lines of text
-with open('C:\Users\Badr\PycharmProjects\Project_Metro_Paris\water_network.txt', "r") as filename:
+#must edit the link to your dataset
+with open('/Project-of-Veolia-Hydro-Network/Data/water_network.txt', "r") as filename:
 	for i, line in enumerate(filename.readlines()):
 		if 'PIPES' in line:
 			Flag_Pipes = True
@@ -174,7 +174,7 @@ print('dict_Edges_W_Flags',dict_Edges_W_Flags)
 
 
 
-#-----------DfSGRAPH 
+#-----------DfS-GRAPH 
 #-----------CHANGE STATUS FROM 'OPEN' TO 'CLOSE' FOR VISITED EDGDES 
 '---------  Change status of Edge visited ---------'
 def Status_Edge_changed_with_dict(graph_Temp,Vertex_EDGE):
