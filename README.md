@@ -1,5 +1,5 @@
 # Project-of-Veolia-Hydro-Network
-##Algorithm Veolia Hydro-Network
+##Algorithm Hydro-Network
 
 
 ###Overview
