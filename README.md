@@ -1,4 +1,4 @@
-# Project-of-Veolia-Hydro-Network
+# Project-for-water-and-energy-services-(Hydro Network) 
 ##Algorithm Hydro-Network
 
 
@@ -9,7 +9,7 @@
 
 (update in progress)
 
-###Time Complexity Of Project-Veolia-Hydro-Network
+###Time Complexity of the Hydro Network algorithm 
 Worst Case Scenario (update in progress)
 
 ### Test
@@ -17,5 +17,5 @@ Worst Case Scenario (update in progress)
 Test model :
 
 ```bash
-python Veolia_final.py 
+python Hydro_Network_final.py 
 ```
