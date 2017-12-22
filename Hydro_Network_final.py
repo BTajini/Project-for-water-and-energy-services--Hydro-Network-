@@ -4,7 +4,7 @@
 #---Contributor--- : Michael Faivre
 #---Campus--- : Paris (On-Campus)
 #---Release--- : 16/10/2016 - V5.0
-#---Project : VEOLIA HYDRONETWORK
+#---Project : HYDRO-NETWORK Algorithm
 
 #library implemented in the project
 from collections import defaultdict
@@ -35,7 +35,7 @@ Flag_Valves = False
 list_valves = []
 
 #must edit the link to your dataset
-with open('/Project-of-Veolia-Hydro-Network/Data/water_network.txt', "r") as filename:
+with open('/Project-for-water-and-energy-services-(Hydro Network)/Data/water_network.txt', "r") as filename:
 	for i, line in enumerate(filename.readlines()):
 		if 'PIPES' in line:
 			Flag_Pipes = True
