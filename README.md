@@ -1,19 +1,17 @@
 # Project-for-water-and-energy-services-(Hydro Network) 
-##Algorithm Hydro-Network
+#### Algorithm Hydro-Network
 
 
-###Overview
+### Overview
 (update in progress)
 
-###The objective
-
+### The objective
 (update in progress)
 
-###Time Complexity of the Hydro Network algorithm 
+### Time Complexity of the Hydro Network algorithm 
 Worst Case Scenario (update in progress)
 
 ### Test
-
 Test model :
 
 ```bash
